@@ -13,7 +13,7 @@
 ---
 
 <!-- SUMMARY CARD -->
-<div style="background-color: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 1.5rem 0;">
+<div style="background-color: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 4rem 0;">
   <h2 style="color: #1976D2; margin-bottom: 0.5rem;">📋 Summary</h2>
   <p style="margin: 0;">Motivated Software Engineer (B.E. Computer Engineering) passionate about full‑stack & mobile development, LLM fine‑tuning, and building delightful UX.</p>
 </div>
