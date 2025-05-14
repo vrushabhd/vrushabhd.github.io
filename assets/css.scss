@@ -1,1 +1,14 @@
+---
+# Tell Jekyll to process this file as SCSS
+---
+
+/* Import the Architect theme’s styles first */
+@import "jekyll-theme-architect";
+
+/* Then override the description container width */
+.site-header .site-description {
+  max-width: none;     /* remove any max-width constraint */
+  width: 100%;         /* full available width */
+  margin: 0 auto;      /* keep it centered */
+}
 
