@@ -1,0 +1,16 @@
+# Site settings
+title: My Architect‑Themed Site
+description: "A clean, minimal Jekyll site powered by the Architect theme."
+
+# Base URL & domain
+# For user/organization sites, keep baseurl empty ("")
+baseurl: ""
+# Replace with your actual GitHub Pages URL (no trailing slash)
+url: "https://vrushabhd.github.io"
+
+# Apply the built-in Architect theme
+theme: jekyll-theme-architect
+
+# (Optional) Plugins section—include if you later use remote themes
+plugins:
+  - jekyll-remote-theme
