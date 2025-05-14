@@ -9,7 +9,7 @@
 ---
 
 ## 📋 Summary  
-Motivated software engineer with a Bachelor’s in Computer Engineering, offering creative problem‑solving and a passion for building innovative solutions. Skilled in full‑stack development, AI/ML fine‑tuning, and mobile app engineering. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+Motivated software engineer with a Bachelor’s in Computer Engineering, offering creative problem‑solving and a passion for building innovative solutions. Skilled in full‑stack development, AI/ML fine‑tuning, and mobile app engineering.
 
 ---
 
