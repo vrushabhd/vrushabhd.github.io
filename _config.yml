@@ -2,7 +2,10 @@
 
 # Site settings
 title: Vrushabh Dhond – Software Engineer
-description: "Currently contributing as an AI Prompt Engineer, focusing on fine-tuning and evaluating Large Language Models (LLMs) to improve response quality and user alignment. Key projects include Project Shield and Project Ceres, where efforts are directed toward refining AI-generated outputs using Reinforcement Learning from Human Feedback (RLHF) and detailed quality assessment. Previously, at Jio Platforms, worked on cross-platform mobile applications using Flutter and Dart, delivering impactful solutions like the PeopleFirst app, aiding over 250,000 employees. Academic foundation in Computer Science from the University of Mumbai complements technical expertise and drives a commitment to advancing AI and software development practices."
+description: "Currently contributing as an AI Prompt Engineer, focusing on fine-tuning and evaluating Large Language Models (LLMs) to improve response quality and user alignment.
+Key projects include Project Shield and Project Ceres, where efforts are directed toward refining AI-generated outputs using Reinforcement Learning from Human Feedback (RLHF) 
+and detailed quality assessment. Previously, at Jio Platforms, worked on cross-platform mobile applications using Flutter and Dart, delivering impactful solutions like the PeopleFirst app,
+aiding over 250,000 employees. Academic foundation in Computer Science from the University of Mumbai complements technical expertise and drives a commitment to advancing AI and software development practices."
 baseurl: ""             # leave empty for user site
 url: "https://vrushabhd.github.io"
 
