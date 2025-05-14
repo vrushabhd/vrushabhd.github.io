@@ -1,3 +1,81 @@
+<!-- Material Design Reset -->
+<style>
+  body { font-family: 'Roboto', sans-serif; background-color: #f5f5f5; }
+  .md-card, details, .project-card {
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 1rem auto;
+    max-width: 800px;
+    padding: 1.5rem;
+    position: relative; /* needed for our slashes */
+  }
+  .md-header {
+    background-color: #6200EE;
+    color: white;
+    padding: 2rem 1.5rem;
+    border-radius: 8px 8px 0 0;
+    text-align: center;
+  }
+  .md-header img {
+    width: 100px; height: 100px; border-radius: 50%; border: 4px solid white;
+  }
+  .md-title { margin: 0.5rem 0 0.25rem; font-size: 2rem; font-weight: 500; }
+  .md-subtitle { margin: 0; font-size: 1.1rem; opacity: 0.9; }
+  .md-section-title { color: #6200EE; font-size: 1.5rem; margin: 1.5rem 0 0.5rem; }
+  .md-chip { display: inline-block; padding: .25rem .75rem; margin: .25rem; font-size: .9rem; border-radius: 16px; background-color: #E0E0E0; }
+  .md-button { display: inline-block; margin: .5rem .25rem; padding: .5rem 1rem; background-color: #6200EE; color: white; text-decoration: none; border-radius: 4px; font-size: .95rem; }
+  details { padding: .75rem 1rem; margin-bottom: .75rem; }
+  summary { font-weight: 500; cursor: pointer; }
+  summary::-webkit-details-marker { display: none; }
+  .project-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; }
+
+  /* ◀▶ Decorative slashes on cards */
+  .md-card::after,
+  details::after,
+  .project-card::after {
+    content: "//";
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    color: #6200EE;
+    font-size: 1.25rem;
+    opacity: 0.6;
+  }
+  /* remove slashes from header */
+  .md-header::after { content: none; }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- HEADER CARD -->
 <div align="center" style="background-color: #1976D2; color: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   <img src="https://github.com/vrushabhd.png" alt="avatar" width="120" style="border-radius: 50%; border: 4px solid #fff;" />
@@ -13,7 +91,7 @@
 ---
 
 <!-- SUMMARY CARD -->
-<div style="background-color: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 4rem 0;">
+<div style="background-color: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 1.5rem 0;">
   <h2 style="color: #1976D2; margin-bottom: 0.5rem;">📋 Summary</h2>
   <p style="margin: 0;">Motivated Software Engineer (B.E. Computer Engineering) passionate about full‑stack & mobile development, LLM fine‑tuning, and building delightful UX.</p>
 </div>
