@@ -43,7 +43,16 @@
   <h2 style="color: #1976D2; margin-bottom: 0.5rem;">💼 Experience</h2>
 
   <details style="background:#fff;border-radius:8px;padding:1rem;margin-bottom:0.5rem;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
-    <summary style="font-weight:bold;cursor:pointer;">AI Prompt Engineer (Freelance) · Soul AI <em>(Feb ’25 – Present)</em></summary>
+    <summary style="font-weight:bold;cursor:pointer;">Flutter Engineer . Aviato Cosnulting <em>(July ’25 – Present)</em></summary>
+    <ul style="margin-top:0.5rem;">
+      <li>Fine‑tuned LLMs & optimized human‑preferred responses via A/B comparisons.</li>
+      <li>Applied RLHF to enhance chat coherence & relevance.</li>
+      <li>Contributed to Project Shield & Project Ceres initiatives.</li>
+    </ul>
+  </details>
+
+  <details style="background:#fff;border-radius:8px;padding:1rem;margin-bottom:0.5rem;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
+    <summary style="font-weight:bold;cursor:pointer;">AI Prompt Engineer (Freelance) · Soul AI <em>(Feb ’25 – July ’25)</em></summary>
     <ul style="margin-top:0.5rem;">
       <li>Fine‑tuned LLMs & optimized human‑preferred responses via A/B comparisons.</li>
       <li>Applied RLHF to enhance chat coherence & relevance.</li>
