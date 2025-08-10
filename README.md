@@ -45,9 +45,9 @@
   <details style="background:#fff;border-radius:8px;padding:1rem;margin-bottom:0.5rem;box-shadow:0 1px 3px rgba(0,0,0,0.1);">
     <summary style="font-weight:bold;cursor:pointer;">Flutter Engineer . Aviato Cosnulting <em>(July ’25 – Present)</em></summary>
     <ul style="margin-top:0.5rem;">
-      <li>Fine‑tuned LLMs & optimized human‑preferred responses via A/B comparisons.</li>
-      <li>Applied RLHF to enhance chat coherence & relevance.</li>
-      <li>Contributed to Project Shield & Project Ceres initiatives.</li>
+      <li>Building scalable, high-performance cross-platform mobile applications using Flutter & Dart.</li>
+      <li>Collaborating in a hybrid work setup with designers, product managers, and backend teams to deliver features on time and to spec.</li>
+      <li>Optimizing mobile UI/UX for speed, responsiveness, and accessibility across Android and iOS platforms.</li>
     </ul>
   </details>
 
