@@ -47,7 +47,6 @@
     <ul style="margin-top:0.5rem;">
       <li>Building scalable, high-performance cross-platform mobile applications using Flutter & Dart.</li>
       <li>Collaborating in a hybrid work setup with designers, product managers, and backend teams to deliver features on time and to spec.</li>
-      <li>Optimizing mobile UI/UX for speed, responsiveness, and accessibility across Android and iOS platforms.</li>
     </ul>
   </details>
 
